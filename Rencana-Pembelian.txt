@@ -1,5 +1,8 @@
 Rencana Beli
   1.Hoodie Harga = 250K
+    -Bahan nya bagus
   2.Laptop Harga = 6.500K
+    - Ryzen 3
+    - 512 NVME
   3.Speaker Harga = 150K
   4.DLL
