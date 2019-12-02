@@ -1,4 +1,5 @@
 Rencana Beli
   1.Hoodie Harga = 250K
   2.Laptop Harga = 6.500K
-  3.DLL
+  3.Speaker Harga = 150K
+  4.DLL
